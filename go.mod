@@ -1,4 +1,4 @@
-module github.com/brenovergilio/go-graphql-demo
+module github.com/brenovergilio/full-cycle-graphql
 
 go 1.21.0
 
